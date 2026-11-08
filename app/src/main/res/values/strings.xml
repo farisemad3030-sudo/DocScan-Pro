@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DocScan Pro</string>
+    <string name="scan_new_doc">Scan Document</string>
+    <string name="no_documents_yet">No scanned documents yet.\nTap below to scan your first page!</string>
+    <string name="save_to_downloads">Save PDF to Phone</string>
+    <string name="share_pdf">Share PDF</string>
+    <string name="export_success">PDF saved to Downloads folder!</string>
+    <string name="camera_permission_required">Camera permission is required to scan pages.</string>
+</resources>
