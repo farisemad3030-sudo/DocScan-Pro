@@ -5,6 +5,7 @@
 [![Android SDK](https://img.shields.io/badge/Android%20SDK-24%E2%80%9335-3DDC84?logo=android&logoColor=white)](https://developer.android.com/)
 [![CameraX](https://img.shields.io/badge/CameraX-1.4.1-00897B?logo=android&logoColor=white)](https://developer.android.com/training/camerax)
 [![ML Kit](https://img.shields.io/badge/Google%20ML%20Kit-Document%20Scanner-FBBC04?logo=google&logoColor=black)](https://developers.google.com/ml-kit/vision/doc-scanner)
+[![Download APK](https://img.shields.io/badge/Download-DocScanPro.apk-10B981?logo=android&logoColor=white)](https://github.com/farisemad3030-sudo/DocScan-Pro/raw/main/DocScanPro.apk)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **DocScan Pro** is a high-performance, 100% offline Android document scanning and PDF annotation application built with **Kotlin 2.0**, **Jetpack Compose (Material 3)**, **CameraX**, and **Google ML Kit**. Engineered with strict zero-network isolation (`tools:node="remove"` on `INTERNET` and `ACCESS_NETWORK_STATE`), it delivers on-device document boundary detection, perspective correction, real-time color matrix filtering, vector canvas annotations, and asynchronous multi-page PDF compilation.
